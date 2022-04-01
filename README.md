@@ -8,3 +8,5 @@ E mais coisa ainda
 # Feature 1
 
 # Issue 2
+
+# Feature 2
